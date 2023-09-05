@@ -9,7 +9,10 @@
  - Swagger
 
 ## Folder Structure
-	[Folder Structure] (Images/Folder-Structure.png)
+<p>
+    <img src="https://github.com/yilmazsalihcan/MiniWallet/blob/master/Folder-Structure.png" width="220" height="240" />
+</p>
+
 
 ## API Endpoints
  You can also see that Swagger Screenshot below.
