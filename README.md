@@ -9,7 +9,7 @@
  - Swagger
 
 ## Folder Structure
-	[Folder Structure] (./Solution Items/Folder-Structure.png)
+	[Folder Structure] (Images/Folder-Structure.png)
 
 ## API Endpoints
  You can also see that Swagger Screenshot below.
