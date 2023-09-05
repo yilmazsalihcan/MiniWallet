@@ -17,7 +17,7 @@
 ## API Endpoints
  You can also see that Swagger Screenshot below.
  <p>
-    <img src="https://github.com/yilmazsalihcan/MiniWallet/blob/master/AppSettings.png" width="550" height="550" />
+    <img src="https://github.com/yilmazsalihcan/MiniWallet/blob/master/Swagger.png" width="550" height="550" />
   </p>
 	
 ## Requirements For Running The Project
