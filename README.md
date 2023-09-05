@@ -16,13 +16,16 @@
 
 ## API Endpoints
  You can also see that Swagger Screenshot below.
-
-	[Screenshot]
-
+ <p>
+    <img src="https://github.com/yilmazsalihcan/MiniWallet/blob/master/AppSettings.png" width="550" height="550" />
+  </p>
+	
 ## Requirements For Running The Project
 	
 - You have to change your Connection String in appsettings.Development.json file 		
-  [Screenshot]
+  <p>
+    <img src="https://github.com/yilmazsalihcan/MiniWallet/blob/master/AppSettings.png" width="550" height="550" />
+  </p>
 - You have to write a command line as below for create database. 
 ```
  update-database
