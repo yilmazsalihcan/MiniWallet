@@ -14,6 +14,14 @@
     <img src="https://github.com/yilmazsalihcan/MiniWallet/blob/master/Folder-Structure.png" width="550" height="550" />
 </p>
 
+## Database and Tables
+<p>
+    <img src="https://github.com/yilmazsalihcan/MiniWallet/blob/master/Folder-Structure.png" width="550" height="550" />
+</p>
+<p>
+    <img src="https://github.com/yilmazsalihcan/MiniWallet/blob/master/Folder-Structure.png" width="550" height="550" />
+</p>
+
 
 ## API Endpoints
  You can also see that Swagger Screenshot below.
