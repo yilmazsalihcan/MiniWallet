@@ -7,10 +7,11 @@
  - SQL Server 
  - EF Core for ORM
  - Swagger
+ - .Net Core 7.0
 
 ## Folder Structure
 <p>
-    <img src="https://github.com/yilmazsalihcan/MiniWallet/blob/master/Folder-Structure.png" width="220" height="240" />
+    <img src="https://github.com/yilmazsalihcan/MiniWallet/blob/master/Folder-Structure.png" width="550" height="550" />
 </p>
 
 
