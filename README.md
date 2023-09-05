@@ -15,13 +15,14 @@
 </p>
 
 ## Database and Tables
+ - Tables    
+   <p>
+    <img src="https://github.com/yilmazsalihcan/MiniWallet/blob/master/Tables.png" width="750" height="550" />
+   </p>
+ - WalletTransactions
 <p>
-    <img src="https://github.com/yilmazsalihcan/MiniWallet/blob/master/Folder-Structure.png" width="550" height="550" />
+    <img src="https://github.com/yilmazsalihcan/MiniWallet/blob/master/Deposit-Withdraw.png" width="750" height="550" />
 </p>
-<p>
-    <img src="https://github.com/yilmazsalihcan/MiniWallet/blob/master/Folder-Structure.png" width="550" height="550" />
-</p>
-
 
 ## API Endpoints
  You can also see that Swagger Screenshot below.
