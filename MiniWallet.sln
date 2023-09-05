@@ -13,8 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniWallet.Infrastructure",
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CF0929D0-97FC-4357-AAD6-ECCB014898F6}"
 	ProjectSection(SolutionItems) = preProject
+		AppSettings.png = AppSettings.png
 		Folder-Structure.png = Folder-Structure.png
 		README.md = README.md
+		Swagger.png = Swagger.png
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{9CAA99C5-2FCD-4A45-96B3-CB2EDF3BE19B}"
